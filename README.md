@@ -105,6 +105,7 @@ See [`LICENSE`](LICENSE) for full text.
 **Anna Tymoshenko, Michelle Duong, Triston Scott**  
 Computer Science Department — Pacific University
 📍 Forest Grove, Oregon, USA
+
 🔗 [Anna](https://github.com/annat7m)
 🔗 [Michelle](https://github.com/michelleduong03)
 🔗 [Triston](https://github.com/scot5781)
