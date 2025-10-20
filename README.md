@@ -27,7 +27,6 @@ Whether you're reading a menu, navigating a city, or documenting your trip, Trav
 ---
 
 ## 📸 Screenshots
-*(Add your actual screenshots in this section)*  
 | Setup | Camera (OCR) | Translation | Web Search | Weather | Travel Log |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | ![Setup](docs/screenshots/setup.jpeg) | ![Camera (OCR)](docs/screenshots/camera2.jpeg) | ![Translation](docs/screenshots/cameratranslationresult.jpeg) | ![Web Search](docs/screenshots/searchweb.jpeg) | ![Weather](docs/screenshots/weather.jpeg) | ![Travel Log](docs/screenshots/log.jpeg) |
