@@ -101,7 +101,7 @@ See [`LICENSE`](LICENSE) for full text.
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 **Anna Tymoshenko, Michelle Duong, Triston Scott**  
 Computer Science Department — Pacific University
 📍 Forest Grove, Oregon, USA
