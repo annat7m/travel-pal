@@ -106,11 +106,6 @@ To run **Travel Pal** locally:
 This is a university-affiliated personal project for educational and portfolio purposes.  
 Feel free to fork the repository, open issues, or suggest improvements.
 
-```bash
-# Example: clone & open your own branch
-git checkout -b feature/improve-ui
-```
-
 ---
 
 ## 📄 License
