@@ -39,12 +39,12 @@ Whether you're reading a menu, navigating a city, or documenting your trip, Trav
     <td align="center"><b>Travel Log</b></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/setup.jpg" height="180" style="object-fit:cover; width:auto; display:block;"/></td>
-    <td><img src="docs/screenshots/camera2.jpg" height="180" style="object-fit:cover; width:auto; display:block;"/></td>
-    <td><img src="docs/screenshots/cameratranslationresult.jpg" height="180" style="object-fit:cover; width:auto; display:block;"/></td>
-    <td><img src="docs/screenshots/searchweb.jpg" height="180" style="object-fit:cover; width:auto; display:block;"/></td>
-    <td><img src="docs/screenshots/weather.jpg" height="180" style="object-fit:cover; width:auto; display:block;"/></td>
-    <td><img src="docs/screenshots/log.jpg" height="180" style="object-fit:cover; width:auto; display:block;"/></td>
+    <td><img src="docs/screenshots/setup.jpg" height="250" style="object-fit:cover; width:auto; display:block;"/></td>
+    <td><img src="docs/screenshots/camera2.jpg" height="250" style="object-fit:cover; width:auto; display:block;"/></td>
+    <td><img src="docs/screenshots/cameratranslationresult.jpg" height="250" style="object-fit:cover; width:auto; display:block;"/></td>
+    <td><img src="docs/screenshots/searchweb.jpg" height="250" style="object-fit:cover; width:auto; display:block;"/></td>
+    <td><img src="docs/screenshots/weather.jpg" height="250" style="object-fit:cover; width:auto; display:block;"/></td>
+    <td><img src="docs/screenshots/log.jpg" height="250" style="object-fit:cover; width:auto; display:block;"/></td>
   </tr>
 </table>
 
