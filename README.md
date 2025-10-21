@@ -6,15 +6,11 @@ _A collaborative Android app that assists travelers with instant translation, li
 ![Build](https://img.shields.io/badge/Build-Gradle-yellow)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
----
-
 ## 🗺 Overview
 **Travel Pal** is your on-the-go travel assistant designed for tourists, students, and adventurers.  
 The app combines translation, weather forecasting, journaling, and OCR technology to make traveling in foreign countries effortless.
 
 Whether you're reading a menu, navigating a city, or documenting your trip, Travel Pal helps you stay connected, informed, and organized — all in one Android app.
-
----
 
 ## ✨ Features
 - 🈯 **Instant Translation** — Translate text between multiple languages in real time.  
@@ -23,8 +19,6 @@ Whether you're reading a menu, navigating a city, or documenting your trip, Trav
 - 📷 **Text-on-Image Recognition** — Capture and translate text from signs, menus, or documents using the camera.  
 - 💾 **Offline Storage** — Save translations and logs locally using Room Database.  
 - 🧭 **Simple Interface** — Built with intuitive navigation and modern Android UI design.
-
----
 
 ## 📸 Screenshots
 <div align="center">
@@ -50,8 +44,6 @@ Whether you're reading a menu, navigating a city, or documenting your trip, Trav
 
 </div>
 
----
-
 ## 🧱 Architecture & Technologies
 | Layer | Description |
 |-------|--------------|
@@ -64,8 +56,6 @@ Whether you're reading a menu, navigating a city, or documenting your trip, Trav
 | **IDE** | Android Studio Koala Feature Drop (2024.1.2 Patch 1) |
 | **Tested on** | Pixel 8 Pro Emulator (API 35, Android 15) |
 | **External APIs** | Translation API (coming soon), Weather API (uses REST calls via HTTP) |
-
----
 
 ## ⚙️ Installation & Setup
 To run **Travel Pal** locally:
@@ -90,8 +80,6 @@ To run **Travel Pal** locally:
 5. *(Optional)* Add your own API keys in  
    `app/src/main/res/values/keys.xml` for weather services.
 
----
-
 ## 🧭 Usage
 
 1. **Translation Tab** — Type or paste text → choose target language → view instant translation.  
@@ -99,20 +87,14 @@ To run **Travel Pal** locally:
 3. **Weather Tab** — View local or destination weather forecast.  
 4. **Log Book Tab** — Add entries with date, notes, and optional photo.  
 5. **Saved Entries** — Access all previous logs and translations offline.
-   
----
 
 ## 🤝 Contributing
 This is a university-affiliated personal project for educational and portfolio purposes.  
 Feel free to fork the repository, open issues, or suggest improvements.
 
----
-
 ## 📄 License
 Distributed under the **MIT License**.  
 See [`LICENSE`](LICENSE) for full text.
-
----
 
 ## 👩‍💻 Authors
 **Anna Tymoshenko, Michelle Duong, Triston Scott**  
@@ -122,8 +104,6 @@ Computer Science Department — Pacific University
 🔗 [Anna](https://github.com/annat7m)
 🔗 [Michelle](https://github.com/michelleduong03)
 🔗 [Triston](https://github.com/scot5781)
-
----
 
 ## 🙏 Acknowledgements
 - [Android Developers Documentation](https://developer.android.com/docs)
